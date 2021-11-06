@@ -23,8 +23,9 @@ AS AN avid traveller
 I WANT to be able to track my withdrawals and deposits with or without a data/internet connection
 SO THAT my account balance is accurate when I am traveling
 
-## Screenshots
+## Images
 
+![Screenshot (66)](https://user-images.githubusercontent.com/82970208/140611103-24d2c006-edba-4487-b4fe-708de4136f2f.png)
 ![Screenshot (63)](https://user-images.githubusercontent.com/82970208/140610964-bf3c9345-3202-4265-8f22-70977593e173.png)
 ![Screenshot (62)](https://user-images.githubusercontent.com/82970208/140610969-3bb5e174-b1d9-4582-9433-ea676a993fbe.png)
 
@@ -37,7 +38,7 @@ Step 3: node server.js
 
 ## Usage 
 
-
+To run locally, run npm start. Once the server is started,the app can open at localhost:3007 in a browser of choice.
 
 ## Tech
 
